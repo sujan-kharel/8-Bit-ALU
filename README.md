@@ -14,4 +14,4 @@ The circuit includes:
     
 
 
-Contains .circ file - executes in Logism
+Download .zip file that contains .circ file to run it on logism
